@@ -1,0 +1,179 @@
+.cajacentral{
+    width: 500px;
+    height: 860px;
+    position: relative;
+    background: white;
+    top: 40%;
+    left: 40%;
+    margin-top: -0px;
+    margin-left: -100px; 
+    border: 3px solid #000;
+}
+
+.cajagrande{
+    position: relative;
+    width: 495px;
+    height: 300px;
+    background: white;
+}
+
+.recurso1{
+    color: #000000;
+    text-align: center;    
+    display: block;
+}
+.recurso2{
+    color: #000000;   
+    top: -75px;
+    right: 180px;
+    position: relative;
+}
+.recurso3{
+    color: #000000;   
+    bottom: -65px;
+    right: -70px;
+    position: relative;
+}
+
+.recurso4{
+    position: relative;
+    bottom: 270px;
+}
+
+.recurso5{
+    position: relative;
+    bottom: 320px;
+    left: 350px;
+}
+
+.recurso6{
+    position: relative;
+    bottom: 480px;
+    left: 430px;
+}
+
+.recurso7{
+    position: relative;
+    bottom: 478px;
+    right: 20px;
+}
+
+.recurso8{
+    position: relative;
+    bottom: 569px;
+    right: 21px;
+}
+
+.caja2{
+    position: relative;
+    width: 230px;
+    height: 80px;
+    margin: 20px;
+    background:white;
+    left: 250px;
+    top:-130px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+.parrafo{
+    position: relative;
+    width: 233px;
+    height: 20px;
+    margin: 10px;
+    background-color: rgb(93, 184, 214);
+    top: -153px;
+    right:-256px;
+    text-align:center;
+    border-radius:20px ;
+}  
+.caja3{
+    position: relative;
+    bottom: 160px;
+    left: 40px;
+    width: 150px;
+    height: 100px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    line-height:8px;
+}
+
+.caja4{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    line-height: 14px;
+    height: 50px;
+    width: 180px;
+}
+
+.caja5{
+    position: relative;
+    height: 400px;
+    left: 320px;
+    bottom: 60px;
+    line-height:3px;
+}
+
+.caja6{
+    position: relative;
+    height: 200px;
+    width: 150px;
+    left: 300px;
+    bottom: 655px;
+    line-height: 8px;
+    color: white;
+    text-align: right;
+}
+
+.caja7{
+    position: relative;
+    height: 190px;
+    width: 90px;
+    bottom: 920px;
+    right: 0px;
+    text-align: center;
+    line-height: 5px;
+}
+
+.caja8{
+    height: 200px;
+    width: 170px;
+    text-align: center;
+}
+
+.tabla{
+    position: relative;
+    left: 20px;
+    line-height:14px;
+    border:collapse;
+    border: #000;
+    width: 460px;
+    top: 0px;
+}
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    border-bottom-color: rgb(184, 155, 155) 1px solid black;
+}
+
+.td {
+    border-bottom: 1px solid  rgb(184, 155, 155);
+    padding: 8px;
+}
+
+.diferencial{
+    background: rgb(20, 90, 114);
+    border-collapse: collapse;
+    border: #000;
+    color: white;
+    border-radius: 25px;
+    width: 460px;
+}
+
+.letra{
+    color: rgb(184, 155, 155);
+}
+
+
+  
