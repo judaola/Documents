@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&display=swap');
+.contenedor{ /*hoja a trabajar*/
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 500px;
+    height: 710px;
+    background: #ccbf94
+    
+}
+.cajacentro{ /*caja donde empiezo a trabajar dentro de contenedor*/
+    background:#ccbf94 ;
+    width: 228px;
+    height: 655px;
+    margin: 20px;
+    margin-right: 0px;
+    display: inline-block;
+    position: relative;
+    bottom: 9px;
+}
+.cajahija1decentro1{ /*columna izquierda superior de la columna izquierda de caja centro*/
+    width: 110px;
+    height: 50%;
+    display: inline-block;
+    background: #ccbf94;
+    border: 2px solid;
+    margin-bottom: 10px;
+
+}
+.imgsuperior1{
+    width: 100%;
+}
+.texto1supderecho{
+    width: 110px;
+    height: 100px;
+    background: #ccbf94;
+    position: absolute;
+    top: 120px;
+    font-size: 10px;
+    text-align: justify;
+}
+
+.texto2supderecho{
+    width: 110px;
+    height: 100px;
+    background: #ccbf94;
+    position: absolute;
+    top: 228px;
+    font-size: 5px;
+    text-align: center;
+}
+.text1supderecho2{ 
+    font-size: 4px;
+}
+.cajahija2decentro1{ /*columna derecha superior de la columna izquierda de caja centro*/
+    width: 110px;
+    height: 50%;
+    display: inline-block;
+    background: #ccbf94;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 2px solid;
+    margin-bottom: 10px;
+    font-size: 10px;
+    text-align: center;
+}
+.imgsuperiorderecha2{
+    width: 100%;
+}
+.textogrande{
+    font-size: 18px;
+    font-family: 'Alkatra', cursive;
+}
+.textopequeno{
+    font-family: 'Alkatra', cursive;
+    font-size: 6px;
+}
+.cajahija3decentro1{ /*parte inferior de la columna izquierda de caja centro*/
+    width: 100%;
+    height: 310px;
+    background: #ccbf94;
+    font-size: 9px;
+    text-align: center;
+    border: 2px solid;
+}
+.logowanted{
+    font-size: 30px;
+}
+.textopequenodentrocaja3{
+    font-size: 9px;
+}
+.cajatexto1decajahija3{
+    background: #ccbf94;
+    width: 45%;
+    height: 100px;
+    position: absolute;
+    bottom: 145px;
+    left: 10px;
+    font-size: 7px;
+    text-align: justify;
+}
+.cajatexto2decajahija3{
+    background: #ccbf94;
+    width: 45%;
+    height: 100px;
+    position: absolute;
+    bottom: 145px;
+    left: 120px;
+    font-size: 8px;
+    text-align: justify;
+}
+.cajacentrodecaja3{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 512px;
+    left: 77px;
+    background: #ccbf94;
+    font-size: 10px;
+    border: 2px solid;
+}
+.letragrandecentro{
+    font-size: 16px;
+}
+.cajatexto3decajahija3{
+    background: #ccbf94;
+    width: 60px;
+    height: 80px;
+    position: absolute;
+    bottom: 70px;
+    left: 10px;
+    font-size: 7px;
+    text-align: justify;
+}
+.cajatexto4decajahija3{
+    background: #ccbf94;
+    width: 65px;
+    height: 70px;
+    position: absolute;
+    bottom: 84px;
+    left: 155px;
+    font-size: 8px;
+    text-align: justify;
+}
+.cajapiedepaghija3{
+    background: #ccbf94;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 7px;
+    font-size: 7px;
+    text-align: center;
+}
+.textopiepaghija3{
+    font-size: 4px;
+}
+.cajacentro2{ /*columna derecha superior de la caja centro */
+    background:#ccbf94;
+    width: 229px;
+    height: 480px;
+    margin: 20px;
+    margin-left: 0px;
+    position: relative;
+    bottom: 705px;
+    left: 253px;
+}
+.cajahija1decentro2{
+    width: 110px;
+    height: 100%;
+    background: #ccbf94;
+    font-size: 7px;
+    text-align: justify;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.cajahija2decentro2{
+    width: 110px;
+    height: 100%;
+    background: #ccbf94;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 7px;
+    text-align: justify;
+}
+.cajainferiorizquierda{ /*columna derecha inferior de la caja centro*/
+    position: absolute;
+    bottom: 28px;
+    left: 253px;
+    width: 228px;
+    height: 167px;
+    margin: 20px;
+    margin-left: 0px;
+    background: #ccbf94;
+    border: 2px solid;
+}
+.cj1{
+    width: 60%;
+    height: 50% ;
+    background: #ccbf94;
+    position: absolute;
+    left: 90px;
+}
+.cj2{
+    width: 60%;
+    height: 50% ;
+    background: #ccbf94;
+    position: absolute;
+    left: 90px;
+    top: 84px;
+    text-align: center;
+    font-size: 7px;
+}
+.imginferiorcj1{
+    height: 100%;
+    width: 100%;
+}
+.imginferiorizquierda{
+width: 90px;
+height: 167px;
+position: absolute;
+top: 0px;
+}
+.imgpiepag{
+    position: absolute;
+    right: -18px;
+    top: 180px;
+    width: 500px;
+}
